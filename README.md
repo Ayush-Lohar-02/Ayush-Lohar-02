@@ -7,7 +7,7 @@ I am Ayush Lohar. A Full Stack Web Developer.
 - 🌱 I’m currently learning Express, Next Js, Mongo DB.
 - 📫 How to reach me: Aryanmlv@gmail.com
 
-
+### <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ### Skills 💻
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,5 +19,5 @@ I am Ayush Lohar. A Full Stack Web Developer.
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Connect with me ✉
-[![Linkedin Badge](https://img.shields.io/badge/-AyushLohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/ayush-l-ab667925a/)](https://www.linkedin.com/in/ayush-l-ab667925a/)
+[![Linkedin Badge](https://img.shields.io/badge/-AyushLohar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush-l-ab667925a/)](https://www.linkedin.com/in/ayush-l-ab667925a/)
 <br />
